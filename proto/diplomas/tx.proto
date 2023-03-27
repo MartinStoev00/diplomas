@@ -1,0 +1,13 @@
+syntax = "proto3";
+package martinstoev00.diplomas.diplomas;
+
+// this line is used by starport scaffolding # proto/tx/import
+
+option go_package = "github.com/MartinStoev00/diplomas/x/diplomas/types";
+
+// Msg defines the Msg service.
+service Msg {
+    // this line is used by starport scaffolding # proto/tx/rpc
+}
+
+// this line is used by starport scaffolding # proto/tx/message
